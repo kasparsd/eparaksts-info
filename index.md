@@ -1,4 +1,4 @@
-# eParaksta lietotāja rokasgrāmata
+# eParaksta jeb eID lietotāja rokasgrāmata
 
 ## Izdevēja jeb _CA Root_ sertifikātu uzstādīšana
 
