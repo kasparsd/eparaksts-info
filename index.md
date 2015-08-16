@@ -1,8 +1,5 @@
 # eParaksta lietotāja rokasgrāmata
 
-Autors: [Kaspars Dambis](http://kaspars.net)   
-Rīga, 2015
-
 ## Izdevēja jeb _CA Root_ sertifikātu uzstādīšana
 
 Lai dators uzticētos taviem lietotāja sertifikātiem, kas glabājas eID kartē, ir nepieciešams iestatīt tā saucamos izdevēja jeb "CA (certification authority) Root" sertifikātus, ko izmantoja LVRTC, lai parakstītu tavus sertifikātus.
