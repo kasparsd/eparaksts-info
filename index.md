@@ -9,4 +9,6 @@ Lai dators uzticētos taviem lietotāja sertifikātiem, kas glabājas eID kartē
 
 ## Safari sertifikāta kļūda
 
-Tīmekļa pārlūks Safari izmanto **Keychain Access**, lai saglabātu izvēlēto lietotāja sertifikātu jeb "identity preference" pie pirmās autentificēšanās reizes, tāpēc Safari nepiedāvā atkārtoti norādīt lietotāja sertifikātu, lai autentificētos vietnē, ko jau esi reiz apmeklējis. Lai norādītu citu sertifikātu, **ir jāizdzēš šis "identity preference"**. To var izdarīt atverot Keychain Access un lietotnes meklētājā ievadot vietnes adresi.
+Tīmekļa pārlūks Safari izmanto **Keychain Access**, lai saglabātu izvēlēto lietotāja sertifikātu jeb "identity preference" pie pirmās autentificēšanās reizes, tāpēc Safari nepiedāvā atkārtoti norādīt lietotāja sertifikātu, lai autentificētos vietnē, ko jau esi reiz apmeklējis. 
+
+Lai norādītu citu sertifikātu, **ir jāizdzēš šī "identity preference"**. To var izdarīt atverot Keychain Access un lietotnes meklētājā ievadot vietnes adresi.
