@@ -5,7 +5,8 @@ let permalinks = require('metalsmith-permalinks');
 
 Metalsmith(__dirname)
   .metadata({
-    title: "eID un eparaksta rokasgrāmata",
+    title: "eID un eParaksta rokasgrāmata",
+    site_title: "eParaksta rokasgrāmata",
     url: "https://eparaksts.info"
   })
   .source('./content')
