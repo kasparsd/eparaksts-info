@@ -3,9 +3,23 @@
 <head>
 	<meta charset="utf-8" />
 	<title>{{ title }}</title>
-	<link rel="stylesheet" type="text/css" href="{{ url }}/assets/css/style.css" />
+	<link rel="stylesheet" type="text/css" href="/assets/css/style.css" />
 </head>
 <body>
-	{{{ contents }}}
+	<div id="soul">
+		<nav id="header">
+			<a href="{{ url }}" rel="home" id="logo">{{ site_title }}</a>
+
+			<ul id="main-nav" class="nav">
+				<li><a href="/par">Par projektu</a></li>
+			</ul>
+		</nav>
+
+		<section id="content">
+			<article>
+				{{{ contents }}}
+			</article>
+		</section>
+	</div>
 </body>
 </html>
