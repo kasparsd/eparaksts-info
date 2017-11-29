@@ -9,7 +9,7 @@
     "type": "git",
     "url": "git+https://github.com/kasparsd/eparaksts-info.git"
   },
-  "author": "Kaspars Dambis",
+  "author": "Kaspars Dambis <hi@kaspars.net> (https://kaspars.net)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/kasparsd/eparaksts-info/issues"
