@@ -8,8 +8,7 @@ p, ul, ol { margin:0 0 1.5em 0; }
 #soul { max-width:740px; margin:0 auto; }
 #header { padding:1.5em 0; margin-bottom:2em; border-bottom:1px solid #ddd; }
 #logo { color:inherit; font-weight:bold; text-decoration: none; padding:1em; margin-left:-1em; }
-#content { padding-bottom:1em; }
-#footer { margin-top:1.5em; border-top:1px solid #ddd; font-size:0.9em; color:#666; }
+#footer { padding:1em 0; margin-top:1.5em; border-top:1px solid #ddd; font-size:0.9em; color:#666; }
 
 .nav { margin:0 -1em; padding:0; display:block; float:right; }
 .nav li { display:inline-block; }
