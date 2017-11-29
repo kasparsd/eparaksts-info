@@ -1,6 +1,6 @@
 # eParaksta lietotāja rokasgrāmata
 
-![Node atkarības](https://david-dm.org/kasparsd/eparaksts-info/status.svg)
+[![Dependency Status](https://david-dm.org/kasparsd/eparaksts-info/status.svg)](https://david-dm.org/kasparsd/eparaksts-info)
 
 Šī ir [eParaksta rokasgrāmatas (eparaksts.info)](https://eparaksts.info) satura glabātuve.
 
