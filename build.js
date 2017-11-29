@@ -1,7 +1,6 @@
 let Metalsmith = require('metalsmith');
 let markdown = require('metalsmith-markdown');
 let layouts = require('metalsmith-layouts');
-let permalinks = require('metalsmith-permalinks');
 
 Metalsmith(__dirname)
   .metadata({
@@ -15,7 +14,6 @@ Metalsmith(__dirname)
   .use(markdown({
     smartypants: true
   }))
-  .use(permalinks())
   .use(layouts({
     engine: 'handlebars',
     default: 'default.html'
