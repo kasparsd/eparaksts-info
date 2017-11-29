@@ -1,5 +1,7 @@
 # eParaksta lietotāja rokasgrāmata
 
+![Node atkarības](https://david-dm.org/kasparsd/eparaksts-info/status.svg)
+
 Šī ir [eParaksta rokasgrāmatas (eparaksts.info)](https://eparaksts.info) satura glabātuve.
 
 Autors: [Kaspars Dambis](https://kaspars.net)
