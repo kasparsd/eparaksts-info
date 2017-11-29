@@ -10,7 +10,6 @@ Metalsmith(__dirname)
   })
   .source('./content')
   .destination('./build')
-  .clean(false)
   .use(markdown({
     smartypants: true
   }))
